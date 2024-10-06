@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/parent-meeting-website/static/css/main.2822fac3.css",
+    "main.js": "/parent-meeting-website/static/js/main.5fd32d68.js",
+    "static/media/Group 4.png": "/parent-meeting-website/static/media/Group 4.d0f7e87dc6b5b9809c9a.png",
+    "static/media/271.png": "/parent-meeting-website/static/media/271.75fba9e01825507987c3.png",
+    "static/media/171.png": "/parent-meeting-website/static/media/171.8f038e49e7505e132093.png",
+    "static/media/281.png": "/parent-meeting-website/static/media/281.8c0cb888721f45c5027c.png",
+    "static/media/131.png": "/parent-meeting-website/static/media/131.d1c89ae9ba1621c22d72.png",
+    "static/media/41.png": "/parent-meeting-website/static/media/41.4815620c068d0abda47b.png",
+    "static/media/101.png": "/parent-meeting-website/static/media/101.8260d04dab31b06a1fb3.png",
+    "static/media/61.png": "/parent-meeting-website/static/media/61.45dcb4cfe5792e251408.png",
+    "static/media/51.png": "/parent-meeting-website/static/media/51.6d3f9b97e2cdce00778b.png",
+    "static/media/111.png": "/parent-meeting-website/static/media/111.486cdbbe317f819a4ada.png",
+    "static/media/141.png": "/parent-meeting-website/static/media/141.080d114326731cd10d31.png",
+    "static/media/221.png": "/parent-meeting-website/static/media/221.0b2a6b3487711a830032.png",
+    "static/media/logo.png": "/parent-meeting-website/static/media/logo.d6f98fdd4aa8959379bb.png",
+    "index.html": "/parent-meeting-website/index.html",
+    "main.2822fac3.css.map": "/parent-meeting-website/static/css/main.2822fac3.css.map",
+    "main.5fd32d68.js.map": "/parent-meeting-website/static/js/main.5fd32d68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2822fac3.css",
+    "static/js/main.5fd32d68.js"
+  ]
+}
